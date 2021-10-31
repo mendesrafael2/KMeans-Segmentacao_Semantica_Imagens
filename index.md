@@ -18,7 +18,6 @@ As figuras  de \ref{foto001} a \ref{foto011} apresentam a comparação entre as 
     <span> Titulo da segunda imagem </span>
 </div>
 
-<style>
 div.box {
 	width: 150px;
 	display: inline-block;
