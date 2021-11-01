@@ -12,6 +12,17 @@ As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referên
 
 ![Im](https://github.com/mendesrafael2/Segmentacao-Semantica-K-means/blob/main/docs/assests/images/photo001.png)
 
+<p align="center">
+ <img  src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_in/photo001.jpg" alt="some text" width=300 height=200>
+ <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_out/photo001out.jpg" alt="some text" width=300 height=200>
+ <br> <b>Figura 1. Foto 1</b>
+</p> 
+
+<p align="center">
+ <img  src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_in/photo002.jpg" alt="some text" width=300 height=200>
+ <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_out/photo002out.jpg" alt="some text" width=300 height=200>
+</p>
+
 
  
 
