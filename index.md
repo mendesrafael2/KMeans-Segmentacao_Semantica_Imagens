@@ -12,7 +12,7 @@ As figuras  de \ref{foto001} a \ref{foto011} apresentam a comparação entre as 
 <p align="center">
  <img  src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_in/photo001.jpg" alt="some text" width=300 height=200>
  <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_out/photo001out.jpg" alt="some text" width=300 height=200>
- Foto 1
+ <br> <b>Foto 1</b>
 </p> 
 
 <p align="center">
