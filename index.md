@@ -10,7 +10,7 @@ Para o presente trabalho foi utilizado o algoritmo **K-means** para realizar a s
 
 As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referência e as segmentadas. A segmentação semântica tenta particionar a imagem em partes semanticamente significativas, e classificar cada uma dessas partes em grupos predeterminados. Para o problema aqui tratado os grupos são os canais de cor RGB das imagens. O algoritmo determina quais "píxeis" da imagem tem maior grau de pertinência a uma determinado grupo, então o algoritmo atribui uma mesma cor a todos "píxeis" desse grupo.
 
-![Im](https://github.com/mendesrafael2/Segmentacao-Semantica-K-means/blob/main/imgs_in/photo001.jpg)
+![Im](https://github.com/mendesrafael2/Segmentacao-Semantica-K-means/blob/main/docs/assests/images/photo001.png)
 
 
  
