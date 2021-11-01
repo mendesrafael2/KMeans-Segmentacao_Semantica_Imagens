@@ -9,14 +9,9 @@ Para o presente trabalho foi utilizado o algoritmo **K-means** para realizar a s
 As figuras  de \ref{foto001} a \ref{foto011} apresentam a comparação entre as fotografias de referência e as segmentadas. A segmentação semântica tenta particionar a imagem em partes semanticamente significativas, e classificar cada uma dessas partes em grupos predeterminados. Para o problema aqui tratado os grupos são os canais de cor RGB das imagens. O algoritmo determina quais "píxeis" da imagem tem maior grau de pertinência a uma determinado grupo, então o algoritmo atribui uma mesma cor a todos "píxeis" desse grupo.
 
 
-
-![Isso é uma imagem](https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg) ![Isso é uma imagem](https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg)
-
-
-<center>
-<p float="left">
- <img align="center" src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg" alt="some text" width=200 height=200>
- <img align="center" src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg" alt="some text" width=200 height=200>
+<p align="center">
+ <img  src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg" alt="some text" width=200 height=200>
+ <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/Imagens%20de%20Entrada/photo001.jpg" alt="some text" width=200 height=200>
 </p> 
-</center>
+
 
