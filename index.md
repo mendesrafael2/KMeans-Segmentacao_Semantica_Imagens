@@ -14,4 +14,9 @@ As figuras  de \ref{foto001} a \ref{foto011} apresentam a comparação entre as 
  <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_out/photo001out.jpg" alt="some text" width=200 height=200>
 </p> 
 
+<p align="center">
+ <img  src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_in/photo002.jpg" alt="some text" width=200 height=200>
+ <img src="https://github.com/mendesrafael2/Segmentacao_Semantica_K-means/blob/main/imgs_out/photo002out.jpg" alt="some text" width=200 height=200>
+</p> 
+
 
