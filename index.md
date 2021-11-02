@@ -24,7 +24,7 @@ As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referên
 
 <p align="center">
  <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo003.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo003out.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo003out.png" alt="some text" width=300 height=200>
  <br> <b>Figura 3. Foto 3</b>
 </p> 
 
@@ -48,7 +48,7 @@ As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referên
 
 <p align="center">
  <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo007.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo007out.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo007out.png" alt="some text" width=300 height=200>
  <br> <b>Figura 7. Foto 7</b>
 </p> 
 
@@ -71,7 +71,7 @@ As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referên
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo011.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo011.png" alt="some text" width=300 height=200>
  <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo011out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 11. Foto 11</b>
 </p> 
