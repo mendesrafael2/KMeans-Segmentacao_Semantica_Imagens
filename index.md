@@ -1,4 +1,4 @@
-# Segmentação Semântica Utilizando K-means
+# Segmentação Semântica de Imagens Utilizando K-means
 
 ## Introdução
 
