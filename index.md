@@ -35,8 +35,8 @@ As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referên
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo005.jpg" alt="some text" width=300 height=600>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo005out.jpg" alt="some text" width=300 height=600>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo005.jpg" alt="some text" width=300 height=400>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo005out.jpg" alt="some text" width=300 height=400>
  <br> <b>Figura 5. Foto 5</b>
 </p> 
 
