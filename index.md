@@ -15,67 +15,67 @@ Para o presente trabalho foi utilizado o algoritmo <b>K-means</b> para realizar 
  </p>
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo001.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo001out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo001.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo001out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 1. Foto 1</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo002.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo002out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo002.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo002out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 2. Foto 2</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo003.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo003out.png" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo003.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo003out.png" alt="some text" width=300 height=200>
  <br> <b>Figura 3. Foto 3</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo004.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo004out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo004.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo004out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 4. Foto 4</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo005.jpg" alt="some text" width=300 height=400>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo005out.jpg" alt="some text" width=300 height=400>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo005.jpg" alt="some text" width=300 height=400>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo005out.jpg" alt="some text" width=300 height=400>
  <br> <b>Figura 5. Foto 5</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo006.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo006out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo006.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo006out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 6. Foto 6</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo007.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo007out.png" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo007.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo007out.png" alt="some text" width=300 height=200>
  <br> <b>Figura 7. Foto 7</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo008.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo008out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo008.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo008out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 8. Foto 8</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo009.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo009out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo009.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo009out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 9. Foto 9</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo010.jpg" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo010out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo010.jpg" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo010out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 10. Foto 10</b>
 </p> 
 
 <p align="center">
- <img  src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_in/photo011.png" alt="some text" width=300 height=200>
- <img src="https://raw.githubusercontent.com/mendesrafael2/SegmentacaoSemanticaKmeans/main/imgs_out/photo011out.jpg" alt="some text" width=300 height=200>
+ <img  src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_in/photo011.png" alt="some text" width=300 height=200>
+ <img src="https://raw.githubusercontent.com/mendesrafael2/KMeans-Segmentacao_Semantica_Imagens/main/imgs_out/photo011out.jpg" alt="some text" width=300 height=200>
  <br> <b>Figura 11. Foto 11</b>
 </p> 
