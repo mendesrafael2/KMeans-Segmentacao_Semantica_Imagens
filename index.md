@@ -11,7 +11,7 @@ Esses algoritmos buscam criar partições dentro de um conjunto de dados a parti
 </p>
  
 <p align="justify">
-Para o presente trabalho foi utilizado o algoritmo **K-means** para realizar a segmentação de um determinado connjunto de imagens. As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referência e as segmentadas com <b>k=3</b>, ou seja, <b> Clusters</b>. A segmentação semântica tenta particionar a imagem em partes semanticamente significativas, e classificar cada uma dessas partes em grupos predeterminados. Para o problema aqui tratado os grupos são os canais de cor RGB das imagens. O algoritmo determina quais "píxeis" da imagem tem maior grau de pertinência a uma determinado grupo, então o algoritmo atribui uma mesma cor a todos "píxeis" desse grupo.
+Para o presente trabalho foi utilizado o algoritmo <b>K-means</b> para realizar a segmentação de um determinado connjunto de imagens. As figuras  de 1 a 11 apresentam a comparação entre as fotografias de referência e as segmentadas com <b>k=3</b>, ou seja, <b> Clusters</b>. A segmentação semântica tenta particionar a imagem em partes semanticamente significativas, e classificar cada uma dessas partes em grupos predeterminados. Para o problema aqui tratado os grupos são os canais de cor RGB das imagens. O algoritmo determina quais "píxeis" da imagem tem maior grau de pertinência a uma determinado grupo, então o algoritmo atribui uma mesma cor a todos "píxeis" desse grupo.
  </p>
 
 <p align="center">
