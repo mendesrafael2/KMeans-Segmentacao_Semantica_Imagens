@@ -2,4 +2,4 @@
 
 Trabalho desenvolvido na disciplina Sistemas Nebulosos que apresenta uma aplicacão de agrupameto de dados na segmentacão semântica de imagens RGB utilizando o algoritmo k-Means.
 
- Link para a página do trabalho: https://mendesrafael2.github.io/KMeans-Segmentacao_Semantica_Imagens/
+Click <a target="_blank" rel="noopener noreferrer" href="https://mendesrafael2.github.io/KMeans-Segmentacao_Semantica_Imagens/">aqui</a> para ir para página do projeto. 
